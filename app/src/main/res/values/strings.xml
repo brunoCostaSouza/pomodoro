@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">POMODORO</string>
+    <string name="fragment_new">NEW</string>
+    <string name="fragment_history">HISTORY</string>
+    <string name="_25_00">25:00</string>
+    <string name="the_list_is_empty_make_your_first_pomodoro">The List is empty, make your first pomodoro</string>
+</resources>
